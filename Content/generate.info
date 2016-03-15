@@ -1,0 +1,47 @@
+﻿<GenerateInfo xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="WaveEditor.Exporter.Model">
+  <files xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>7f4cd898cfcad6f3a0610c4025d0c592</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>2623b8ad9892d62f8f8a0a5ae5ac5f50</FileHash>
+        <WinfoHash>7fbe0a8f8b1215bd43d988ee45b425e6</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>7598c0a69156e59da9509c2432df753c</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>47f784d6b9e2df7f27b66da6f369a2f4</FileHash>
+        <WinfoHash>e23726429c3506529beb4df0eee61a5a</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>868b10e31b9dcfd7cdfd3cb5879e5b90</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>65756b5d80652aca62f362ddd7bc12f3</FileHash>
+        <WinfoHash>0711d3d90218353db48075ea72b3469a</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>0ec2ea5c8aa771526f53a180e9aa527f</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>c39b9a25b2c8d7a6b3924ab8adb9907d</FileHash>
+        <WinfoHash>41c7c188b9d4d0a01c9389c6ab1028a7</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>cf4fbf2250dc39cf02ca38ae12aec842</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>5877562ee38b1273400e0439925f2f0e</FileHash>
+        <WinfoHash>74cc994dde293e203e2d4829674a4a42</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>dc872c200bff88cde763236e8864303d</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>5cf5b77977f140db93522803a4600f59</FileHash>
+        <WinfoHash>762d01c4c7ce78fd9bb4d60ccde0a6a2</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+  </files>
+  <id>BFEBFBFF000306A9</id>
+</GenerateInfo>
